@@ -6,7 +6,7 @@ const Navigation = () => {
     <nav>
       <Link
         style={{ color: "white", width: "70%", textDecoration: "none" }}
-        to="/"
+        to="/movies"
       >
         <h1 style={{ width: "70%" }}>Movie Reviews</h1>
       </Link>
